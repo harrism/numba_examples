@@ -1,4 +1,4 @@
-numbapro_examples
+numba_examples
 =================
 
-Examples using NumbaPro from Continuum Analytics
+Examples using Numba from Continuum Analytics
